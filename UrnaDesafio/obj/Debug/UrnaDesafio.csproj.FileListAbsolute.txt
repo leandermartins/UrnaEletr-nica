@@ -1,0 +1,10 @@
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\bin\Debug\UrnaDesafio.exe.config
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\bin\Debug\UrnaDesafio.exe
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\bin\Debug\UrnaDesafio.pdb
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.csprojAssemblyReference.cache
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.Form1.resources
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.Properties.Resources.resources
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.csproj.GenerateResource.cache
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.exe
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.pdb
+C:\Users\leander.mosilva\Desktop\UrnaDesafio\UrnaDesafio\obj\Debug\UrnaDesafio.frmResultado.resources
